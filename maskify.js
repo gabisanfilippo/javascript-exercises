@@ -9,5 +9,5 @@ function maskify(string) {
   mask = mask + charactersWithoutMask;
   return mask
 }
-console.log(maskify("Nanananananananananana Batman!"));
+
 module.exports = maskify;
